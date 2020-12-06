@@ -81,7 +81,7 @@ font-family: 'Roboto Slab', serif;
     }
     
     .intro {
-        background-size: cover;
+        background-size: 100%;
         background-repeat: no-repeat;
         background-position: bottom;
         height: 650px;
@@ -179,6 +179,7 @@ font-family: 'Roboto Slab', serif;
         background-color: #070808;
         color: white;
         padding: 15px;
+        width: 100%;
     }
     
     footer ul {
